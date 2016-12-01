@@ -27,7 +27,7 @@ div {
 }
 
 h2 {
-  font-family: font-family: 'Denk One', sans-serif;
+  font-family: "Denk One", sans-serif;
   font-size: 1.5rem;
 }
 
@@ -48,6 +48,8 @@ h2 {
 
   .content {
     background-color: rgba(0, 0, 0, .3);
+    position: absolute;
+    border-radius: 
   }
 
 }
@@ -66,6 +68,7 @@ h2 {
   .content {
     background-color: rgba(0, 0, 0, .3);
     position: absolute;
+    border-radius:
   }
 
 }
@@ -76,6 +79,7 @@ h2 {
     font-size: 130%;
     line-height: 1.5;
     position: absolute;
+    border-radius:
   }
 
   img {
@@ -85,6 +89,7 @@ h2 {
   .content {
     background-color: rgba(0, 0, 0, .3);
     position: absolute;
+    border-radius:
   }
 
 }
